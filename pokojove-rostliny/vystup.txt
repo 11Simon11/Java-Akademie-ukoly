@@ -1,0 +1,4 @@
+Fialka 1	Popis fialky - je fialová a hezká	3	2021-01-01	2021-05-12
+Sukulent v koupelně	Nezalévá se	365	2011-03-01	2011-03-01
+Orchidej v pokoji		10	2022-01-18	2021-11-11
+Kaktus na stole		7	2022-01-18	2022-01-18
